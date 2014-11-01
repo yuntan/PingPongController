@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ping Pong Controller</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_label1">Space Key</string>
+    <string name="btn_label2">Connect</string>
+    <string name="uri_sample">ws://192.168.0.0:443</string>
+
+</resources>
